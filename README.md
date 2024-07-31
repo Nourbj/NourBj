@@ -10,9 +10,6 @@
 - 🔭 I’m currently working on a s mobile app **Portail Employé**
 
 - 🌱 I’m currently learning **.Net , C#**
-
-- 
-
 - 📫 How to reach me **nbenjannena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
