@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.eaa9cff191c448dd0884ad794d675a84?rik=5tx1CAT9%2fi64MA&pid=ImgRaw&r=0">
 
-- 🔭 I’m currently working on a small buisness mobile app **Bezbez-app**
+- 🔭 I’m currently working on a s mobile app **Portail Employé**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **.Net , C#**
 
-- 🔭 I’m currently working on project with Logidas **Confidential**
+- 
 
 - 📫 How to reach me **nbenjannena@gmail.com**
 
